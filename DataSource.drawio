@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-19T11:59:02.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="eZjerXRUeCVqk95mbbcQ" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-19T12:01:56.682Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="HaPcVMnNkiiaxNiRHCN0" version="17.4.5" type="github">
   <diagram id="1GsaGOhPuQo9N7ZaYMCB" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -161,10 +161,10 @@
             <mxPoint x="337" y="335" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="knl8iM3lEiRTkJogPcER-1" value="&lt;span style=&quot;font-size: 9px ; font-weight: 700&quot;&gt;业务服务规则算法&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;strokeColor=#457B9D;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="5C9GGsjlYOhXfarIp8Tb-1">
+        <mxCell id="knl8iM3lEiRTkJogPcER-1" value="&lt;span style=&quot;font-size: 9px ; font-weight: 700&quot;&gt;业务服务规则算法&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;strokeColor=#457B9D;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
           <mxGeometry x="250" y="170" width="170" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="5C9GGsjlYOhXfarIp8Tb-22" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;赋强多租户（银行和公证处）需要私有化部署多数据源模式&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;（&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;目标实现现有服务拆分和业务中台建设&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;）&lt;/span&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="5C9GGsjlYOhXfarIp8Tb-22" value="&lt;div&gt;赋强多租户（银行和公证处）需要私有化部署，基于服务多数据源模式（目标完成现有服务拆分和业务中台建设）&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="900" y="40" width="390" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QnGywbHcmohgSB-NV8yT-26" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#000000;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" edge="1">
