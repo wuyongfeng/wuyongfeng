@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T02:27:31.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="s0dDyvejSHbP7gb6NNoz" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-20T02:29:10.987Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="eQAE2ila3OaI8hc7fiVx" version="17.4.5" type="github" pages="2">
   <diagram id="1GsaGOhPuQo9N7ZaYMCB" name="基于服务多数据源模式技术方案">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -301,7 +301,7 @@
           <mxGeometry x="417" y="223" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="8aGe5UOQVmx-klE6Vs5v-9" value="" style="aspect=fixed;html=1;points=[];align=left;image;fontSize=12;image=img/lib/azure2/general/Workflow.svg;rotation=-90;labelPosition=right;verticalLabelPosition=middle;verticalAlign=top;horizontal=0;" vertex="1" parent="ZK2Sy7To2DuazH64TaJp-1">
-          <mxGeometry x="660" y="197" width="103.95" height="107" as="geometry" />
+          <mxGeometry x="630" y="205" width="103.95" height="107" as="geometry" />
         </mxCell>
         <mxCell id="8aGe5UOQVmx-klE6Vs5v-11" value="Task业务服务" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=none;" vertex="1" parent="ZK2Sy7To2DuazH64TaJp-1">
           <mxGeometry x="505" y="146" width="40" height="40" as="geometry" />
@@ -319,7 +319,10 @@
           <mxGeometry x="900" y="350" width="370" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8aGe5UOQVmx-klE6Vs5v-16" value="静态配置数据源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontStyle=1;fontSize=9;" vertex="1" parent="ZK2Sy7To2DuazH64TaJp-1">
-          <mxGeometry x="670" y="156" width="100" height="20" as="geometry" />
+          <mxGeometry x="625" y="184" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7JOzHNRmuQbyhO_7rJKC-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelBackgroundColor=none;sketch=0;fontSize=19;fontColor=#000000;strokeColor=#000000;fillColor=none;" vertex="1" parent="ZK2Sy7To2DuazH64TaJp-1">
+          <mxGeometry x="588" y="140" width="52" height="235" as="geometry" />
         </mxCell>
         <mxCell id="ZK2Sy7To2DuazH64TaJp-44" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;larkhacksafarifont&amp;#34; , &amp;#34;larkemojifont&amp;#34; , &amp;#34;larkchinesequote&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;noto color emoji&amp;#34;&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;赋强多租户（银行和公证处）需要私有化部署，传统多数据源模式（目标完成现有业务数据库的拆分）&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="900" y="40" width="390" height="100" as="geometry" />
