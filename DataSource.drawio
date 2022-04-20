@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T02:59:54.486Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="ue0BVA1R_ItpTEVMTm2v" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-20T03:03:40.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="RJNnFSFayGjrGXzD-wOf" version="17.4.5" type="github" pages="2">
   <diagram id="1GsaGOhPuQo9N7ZaYMCB" name="基于服务多数据源模式技术方案">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -102,7 +102,7 @@
         <mxCell id="QnGywbHcmohgSB-NV8yT-40" value="&lt;b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Service&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46)&quot;&gt;Registry&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Center&lt;/span&gt;&lt;/b&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=10;image=img/lib/azure2/app_services/App_Service_Environments.svg;rounded=0;sketch=0;fontColor=#000000;strokeColor=#457B9D;fillColor=none;labelBackgroundColor=none;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
           <mxGeometry x="601.5" y="213" width="87" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="QnGywbHcmohgSB-NV8yT-41" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#000000;strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=none;" parent="5C9GGsjlYOhXfarIp8Tb-1" edge="1">
+        <mxCell id="QnGywbHcmohgSB-NV8yT-41" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#000000;strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=none;strokeWidth=2;" parent="5C9GGsjlYOhXfarIp8Tb-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="480" as="sourcePoint" />
             <mxPoint x="1000" y="480" as="targetPoint" />
