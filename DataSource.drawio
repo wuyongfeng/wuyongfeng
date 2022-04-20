@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-20T02:54:48.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="YDopybhNThSCyMbIc80_" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-20T02:55:08.579Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="Hm5kVIE2JEhZPoZ6pGV4" version="17.4.5" type="github" pages="2">
   <diagram id="1GsaGOhPuQo9N7ZaYMCB" name="基于服务多数据源模式技术方案">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -316,7 +316,7 @@
           <mxGeometry x="610" y="184" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7JOzHNRmuQbyhO_7rJKC-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelBackgroundColor=none;sketch=0;fontSize=19;fontColor=#000000;strokeColor=#000000;fillColor=none;" vertex="1" parent="ZK2Sy7To2DuazH64TaJp-1">
-          <mxGeometry x="588" y="140" width="52" height="235" as="geometry" />
+          <mxGeometry x="575" y="140" width="52" height="235" as="geometry" />
         </mxCell>
         <mxCell id="ZK2Sy7To2DuazH64TaJp-44" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;larkhacksafarifont&amp;#34; , &amp;#34;larkemojifont&amp;#34; , &amp;#34;larkchinesequote&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;noto color emoji&amp;#34;&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;赋强多租户（银行和公证处）需要私有化部署，传统多数据源模式（目标完成现有业务数据库的拆分）&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="900" y="40" width="390" height="100" as="geometry" />
