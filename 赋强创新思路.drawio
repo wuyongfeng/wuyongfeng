@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T10:37:34.745Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="4m24LHyYy7RvdTGFuWjm" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-21T10:38:12.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="KRWblnvhPn53MikgJlti" version="17.4.5" type="github" pages="2">
   <diagram id="TbiD-q-UGumEZRIeGAm7" name="赋强现有思路">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -295,8 +295,8 @@
         <mxCell id="yrI9XVCD4SgGXH7bl0nP-12" value="公证书" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=18;strokeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="920.34" y="280" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yrI9XVCD4SgGXH7bl0nP-13" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-size: 20px;&quot;&gt;TCP长连接&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=20;rotation=-75;labelBackgroundColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="250.33999999999997" y="404.82" width="320" height="22.59" as="geometry" />
+        <mxCell id="yrI9XVCD4SgGXH7bl0nP-13" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-size: 18px;&quot;&gt;TCP长连接&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=18;rotation=60;labelBackgroundColor=none;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="935.3399999999999" y="339.99999999999994" width="320" height="22.59" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
