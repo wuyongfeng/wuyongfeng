@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T02:35:14.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="hygigp9S51qqjjpnEFAC" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-21T02:55:57.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="j3ovrNmT482_aIimNkci" version="17.4.5" type="github" pages="2">
   <diagram id="1GsaGOhPuQo9N7ZaYMCB" name="数据隔离方案2-基于服务多数据源模式技术方案">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -90,15 +90,6 @@
             <mxPoint x="1130" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QnGywbHcmohgSB-NV8yT-29" value="&lt;span style=&quot;color: rgb(29 , 53 , 87) ; background-color: rgb(248 , 249 , 250)&quot;&gt;银行&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/IP_Groups.svg;rounded=0;sketch=0;fontColor=#000000;strokeColor=#457B9D;fillColor=none;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
-          <mxGeometry x="28.36" y="210" width="96.64" height="75" as="geometry" />
-        </mxCell>
-        <mxCell id="QnGywbHcmohgSB-NV8yT-34" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#000000;strokeColor=#457B9D;fillColor=#A8DADC;" parent="5C9GGsjlYOhXfarIp8Tb-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="248" as="sourcePoint" />
-            <mxPoint x="290" y="248" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="QnGywbHcmohgSB-NV8yT-40" value="&lt;b&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Service&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: rgb(36 , 41 , 46)&quot;&gt;Registry&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;Center&lt;/span&gt;&lt;/b&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=10;image=img/lib/azure2/app_services/App_Service_Environments.svg;rounded=0;sketch=0;fontColor=#000000;strokeColor=#457B9D;fillColor=none;labelBackgroundColor=none;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
           <mxGeometry x="601.5" y="213" width="87" height="87" as="geometry" />
         </mxCell>
@@ -163,6 +154,24 @@
         </mxCell>
         <mxCell id="knl8iM3lEiRTkJogPcER-1" value="&lt;span style=&quot;font-size: 9px ; font-weight: 700&quot;&gt;业务服务规则算法&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;strokeColor=#457B9D;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
           <mxGeometry x="268" y="170" width="170" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="kBCrA3iXp3kFZONxHDxh-1" value="&lt;span style=&quot;color: rgb(29 , 53 , 87) ; background-color: rgb(248 , 249 , 250)&quot;&gt;银行&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/IP_Groups.svg;rounded=0;sketch=0;fontColor=#000000;strokeColor=#457B9D;fillColor=none;" vertex="1" parent="5C9GGsjlYOhXfarIp8Tb-1">
+          <mxGeometry x="30" y="210" width="96.64" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="kBCrA3iXp3kFZONxHDxh-2" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#000000;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="5C9GGsjlYOhXfarIp8Tb-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="254.5" as="sourcePoint" />
+            <mxPoint x="320" y="254.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kBCrA3iXp3kFZONxHDxh-3" value="&lt;span style=&quot;color: rgb(29 , 53 , 87) ; background-color: rgb(248 , 249 , 250)&quot;&gt;小程序&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/IP_Groups.svg;rounded=0;sketch=0;fontColor=#000000;strokeColor=#457B9D;fillColor=none;" vertex="1" parent="5C9GGsjlYOhXfarIp8Tb-1">
+          <mxGeometry x="30" y="340" width="96.64" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="kBCrA3iXp3kFZONxHDxh-4" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#000000;strokeColor=#457B9D;fillColor=#A8DADC;" edge="1" parent="5C9GGsjlYOhXfarIp8Tb-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="377.5" as="sourcePoint" />
+            <mxPoint x="320" y="377.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5C9GGsjlYOhXfarIp8Tb-22" value="&lt;div&gt;赋强多租户（银行和公证处）业务数据需要独立部署，基于服务多数据源模式（目标完成现有服务拆分和业务中台建设）&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="900" y="40" width="390" height="100" as="geometry" />
