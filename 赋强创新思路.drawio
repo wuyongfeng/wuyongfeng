@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T11:52:52.497Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="g9xkZiJL4qIVGiLcqvRK" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-21T11:56:53.289Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="zWyLER27-b1IEz5ktI8y" version="17.4.5" type="github" pages="2">
   <diagram id="TbiD-q-UGumEZRIeGAm7" name="赋强现有思路">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -281,7 +281,7 @@
           <mxGeometry x="859.66" y="250" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gVG75Whd7pKGl_VEBl4--1" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;larkhacksafarifont&amp;#34; , &amp;#34;larkemojifont&amp;#34; , &amp;#34;larkchinesequote&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;noto color emoji&amp;#34;&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;扩展性强，大饼夹一切！&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontStyle=1;rotation=0;position2=0.43;" vertex="1" parent="1">
-          <mxGeometry x="1030" y="140" width="210" height="130" as="geometry" />
+          <mxGeometry x="1100" y="150" width="150" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
