@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T10:04:42.254Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="FjvhA4Ah62ElvctbJNZf" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-21T10:05:44.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="IgANHKxXnO3DJ-zBnQIa" version="17.4.5" type="github" pages="2">
   <diagram id="TbiD-q-UGumEZRIeGAm7" name="赋强现有思路">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -117,6 +117,9 @@
         </mxCell>
         <mxCell id="SZ3cnazm3X6QkwhJVz3c-35" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-size: 16px;&quot;&gt;RESTful API&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=18;rotation=-75;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="290" y="417.40999999999997" width="160.34" height="22.59" as="geometry" />
+        </mxCell>
+        <mxCell id="0kJrQQ6XNHGuofrC7Rx9-1" value="银行&lt;br&gt;信息" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=18;fontColor=#FFFFFF;strokeColor=default;strokeWidth=0;fillColor=#00CCCC;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="580" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
@@ -239,6 +242,9 @@
         </mxCell>
         <mxCell id="TEY4NTb9Coj-6whppLxx-25" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-size: 16px;&quot;&gt;RESTful API&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=18;rotation=-75;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="427.40999999999997" width="160.34" height="22.59" as="geometry" />
+        </mxCell>
+        <mxCell id="KPQzNLiYx2tXf6R9B_gR-1" value="银行&lt;br&gt;信息" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=18;fontColor=#FFFFFF;strokeColor=default;strokeWidth=0;fillColor=#00CCCC;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="595" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
