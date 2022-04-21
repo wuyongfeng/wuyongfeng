@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T10:42:23.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="5zUZS7lW24lKt6Ewdbp9" version="17.4.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-21T10:46:45.793Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="bgYbEzolPO37vdWQj31p" version="17.4.5" type="github" pages="2">
   <diagram id="TbiD-q-UGumEZRIeGAm7" name="赋强现有思路">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -274,7 +274,7 @@
         <mxCell id="yrI9XVCD4SgGXH7bl0nP-5" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=18;strokeColor=#b85450;strokeWidth=0;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="700.34" y="50" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="yrI9XVCD4SgGXH7bl0nP-6" value="业务关系" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=18;strokeColor=#b85450;strokeWidth=0;fillColor=#f8cecc;" vertex="1" parent="1">
+        <mxCell id="yrI9XVCD4SgGXH7bl0nP-6" value="业务链" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=18;strokeColor=#b85450;strokeWidth=0;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="560.34" y="80" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yrI9XVCD4SgGXH7bl0nP-7" value="用户" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=18;strokeWidth=0;" vertex="1" parent="1">
