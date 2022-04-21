@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T02:11:23.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="PsVy9aO7d5_icB6LxbUu" version="17.4.5" type="github" pages="2">
-  <diagram id="1GsaGOhPuQo9N7ZaYMCB" name="基于服务多数据源模式技术方案">
+<mxfile host="app.diagrams.net" modified="2022-04-21T02:35:14.258Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="hygigp9S51qqjjpnEFAC" version="17.4.5" type="github" pages="2">
+  <diagram id="1GsaGOhPuQo9N7ZaYMCB" name="数据隔离方案2-基于服务多数据源模式技术方案">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -188,7 +188,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="78BLoj6I48kYaRuqE5UL" name="传统多数据源模式">
+  <diagram id="78BLoj6I48kYaRuqE5UL" name="数据隔离方案1-传统多数据源模式">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
