@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T02:49:21.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="1VcXvqWOLsFzJ-P4M2jt" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-22T02:51:17.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="zISEAhcNlJIeBEqrDxJC" version="17.4.6" type="github" pages="2">
   <diagram id="78BLoj6I48kYaRuqE5UL" name="数据独立存储方案1-传统多数据源模式">
     <mxGraphModel dx="1394" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -154,7 +154,7 @@
             <mxRectangle x="30" y="150" width="160" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aedtP0L5RRCJyESwE4hs-1" value="&lt;span style=&quot;font-size: 9px ; font-weight: 700&quot;&gt;平台业务服务集群&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;strokeColor=#457B9D;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="5C9GGsjlYOhXfarIp8Tb-1">
+        <mxCell id="aedtP0L5RRCJyESwE4hs-1" value="&lt;span style=&quot;font-size: 9px ; font-weight: 700&quot;&gt;平台业务服务&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;strokeColor=#457B9D;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="5C9GGsjlYOhXfarIp8Tb-1">
           <mxGeometry x="900" y="117" width="130" height="313" as="geometry" />
         </mxCell>
         <mxCell id="knl8iM3lEiRTkJogPcER-1" value="&lt;span style=&quot;font-size: 9px ; font-weight: 700&quot;&gt;平台system服务&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;strokeColor=#457B9D;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
