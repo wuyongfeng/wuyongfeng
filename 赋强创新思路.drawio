@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T07:07:18.479Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="PvdVhdvx-odtZN_naJ48" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-22T08:01:10.358Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="ACqfEBGmi6pE26z4E2wN" version="17.4.6" type="github" pages="2">
   <diagram id="TbiD-q-UGumEZRIeGAm7" name="梳理赋强">
     <mxGraphModel dx="1874" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -118,7 +118,7 @@
         <mxCell id="SZ3cnazm3X6QkwhJVz3c-35" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-size: 16px;&quot;&gt;RESTful API&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=18;rotation=-75;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="430" y="417.40999999999997" width="160.34" height="22.59" as="geometry" />
         </mxCell>
-        <mxCell id="0kJrQQ6XNHGuofrC7Rx9-1" value="银行&lt;br&gt;信息" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=18;fontColor=#FFFFFF;strokeColor=default;strokeWidth=0;fillColor=#00CCCC;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="0kJrQQ6XNHGuofrC7Rx9-1" value="业务&lt;br&gt;信息" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=18;fontColor=#FFFFFF;strokeColor=default;strokeWidth=0;fillColor=#00CCCC;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="610" y="580" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NVHMBf0Pm29na-19WKgt-1" value="视频" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=18;fontColor=#FFFFFF;strokeColor=default;strokeWidth=0;fillColor=#007FFF;gradientColor=none;" vertex="1" parent="1">
@@ -235,7 +235,7 @@
         <mxCell id="TEY4NTb9Coj-6whppLxx-25" value="&lt;span style=&quot;color: rgb(77 , 77 , 77) ; font-size: 16px&quot;&gt;REST API&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontSize=18;rotation=-75;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="450" y="417.40999999999997" width="160.34" height="22.59" as="geometry" />
         </mxCell>
-        <mxCell id="KPQzNLiYx2tXf6R9B_gR-1" value="银行&lt;br&gt;信息" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=18;fontColor=#FFFFFF;strokeColor=default;strokeWidth=0;fillColor=#00CCCC;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="KPQzNLiYx2tXf6R9B_gR-1" value="业务&lt;br&gt;信息" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=18;fontColor=#FFFFFF;strokeColor=default;strokeWidth=0;fillColor=#00CCCC;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="630" y="585" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="1QAQnliY2j0U7ESWhbyO-1" value="IM即时通讯" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;labelBackgroundColor=none;sketch=0;fontSize=18;fontColor=#000000;fontStyle=1" parent="1" vertex="1">
