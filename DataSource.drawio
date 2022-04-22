@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T02:47:32.871Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="VZaoemdQrErbN3uMSkLP" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-22T02:49:21.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="1VcXvqWOLsFzJ-P4M2jt" version="17.4.6" type="github" pages="2">
   <diagram id="78BLoj6I48kYaRuqE5UL" name="数据独立存储方案1-传统多数据源模式">
     <mxGraphModel dx="1394" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -157,8 +157,8 @@
         <mxCell id="aedtP0L5RRCJyESwE4hs-1" value="&lt;span style=&quot;font-size: 9px ; font-weight: 700&quot;&gt;平台业务服务集群&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;strokeColor=#457B9D;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" vertex="1" parent="5C9GGsjlYOhXfarIp8Tb-1">
           <mxGeometry x="900" y="117" width="130" height="313" as="geometry" />
         </mxCell>
-        <mxCell id="knl8iM3lEiRTkJogPcER-1" value="&lt;span style=&quot;font-size: 9px ; font-weight: 700&quot;&gt;业务服务规则算法&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;strokeColor=#457B9D;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
-          <mxGeometry x="268" y="170" width="170" height="300" as="geometry" />
+        <mxCell id="knl8iM3lEiRTkJogPcER-1" value="&lt;span style=&quot;font-size: 9px ; font-weight: 700&quot;&gt;平台system服务&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;strokeColor=#457B9D;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
+          <mxGeometry x="280" y="130" width="140" height="320" as="geometry" />
         </mxCell>
         <mxCell id="QnGywbHcmohgSB-NV8yT-2" value="" style="line;strokeWidth=1;direction=south;html=1;strokeColor=#457B9D;dashed=1;labelBackgroundColor=#F1FAEE;fillColor=#A8DADC;fontColor=#1D3557;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
           <mxGeometry x="240" y="60" width="10" height="410" as="geometry" />
@@ -172,7 +172,7 @@
         <mxCell id="5C9GGsjlYOhXfarIp8Tb-4" value="公证处A数据库" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
           <mxGeometry x="1170" y="110" width="55.5" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="5C9GGsjlYOhXfarIp8Tb-5" value="平台数据库" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
+        <mxCell id="5C9GGsjlYOhXfarIp8Tb-5" value="数据库" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
           <mxGeometry x="328" y="350" width="55.5" height="74" as="geometry" />
         </mxCell>
         <mxCell id="QnGywbHcmohgSB-NV8yT-7" value="公证处B数据库" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
@@ -202,7 +202,7 @@
         <mxCell id="QnGywbHcmohgSB-NV8yT-14" value="&lt;h3 style=&quot;padding: 0px ; margin: 24px 0px 16px ; box-sizing: border-box ; font-size: 1.25em ; line-height: 1.25 ; color: rgb(36 , 41 , 46) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34;&quot;&gt;服务提供&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#FFFFFF;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
           <mxGeometry x="984" y="30" width="140" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="QnGywbHcmohgSB-NV8yT-15" value="平台system服务" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=none;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
+        <mxCell id="QnGywbHcmohgSB-NV8yT-15" value="system服务" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=none;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
           <mxGeometry x="328" y="210" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="QnGywbHcmohgSB-NV8yT-16" value="平台服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontStyle=1;fontSize=9;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
