@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T03:17:48.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="8YO4rKpYkKhCnbiXNpnk" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-22T05:20:18.913Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="6QkBHLl5R3SQUr0ubbT4" version="17.4.6" type="github" pages="2">
   <diagram id="78BLoj6I48kYaRuqE5UL" name="数据独立存储方案1-传统多数据源模式">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -123,8 +123,8 @@
             <mxPoint x="916" y="184" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8aGe5UOQVmx-klE6Vs5v-16" value="通过AOP根据业务规则分配数据源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontStyle=1;fontSize=9;" parent="ZK2Sy7To2DuazH64TaJp-1" vertex="1">
-          <mxGeometry x="603" y="184" width="200" height="20" as="geometry" />
+        <mxCell id="8aGe5UOQVmx-klE6Vs5v-16" value="通过AOP动态分配数据源" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontStyle=1;fontSize=9;" parent="ZK2Sy7To2DuazH64TaJp-1" vertex="1">
+          <mxGeometry x="616" y="184" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7JOzHNRmuQbyhO_7rJKC-1" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelBackgroundColor=none;sketch=0;fontSize=19;fontColor=#000000;strokeColor=#000000;fillColor=none;" parent="ZK2Sy7To2DuazH64TaJp-1" vertex="1">
           <mxGeometry x="575" y="140" width="52" height="235" as="geometry" />
