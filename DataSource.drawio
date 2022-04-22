@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T03:03:59.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="HX0uK2GavGpsAnncHtq8" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-22T03:13:07.698Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="6gMYSshbWUW4WY1Ga-0J" version="17.4.6" type="github" pages="2">
   <diagram id="78BLoj6I48kYaRuqE5UL" name="数据独立存储方案1-传统多数据源模式">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -315,7 +315,7 @@
             <mxPoint x="1150" y="274" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5C9GGsjlYOhXfarIp8Tb-22" value="&lt;div&gt;赋强多租户（银行和公证处）业务数据需要独立存储，基于服务多数据源模式（目标完成现有服务拆分和业务中台建设）&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="5C9GGsjlYOhXfarIp8Tb-22" value="&lt;div&gt;赋强多租户（银行和公证处）业务数据需要独立存储，基于服务多数据源模式（目标完成现有服务拆分和业务数据拆分、业务中台建设）&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="900" y="40" width="390" height="100" as="geometry" />
         </mxCell>
         <mxCell id="QnGywbHcmohgSB-NV8yT-26" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#000000;strokeColor=#457B9D;fillColor=#A8DADC;" parent="1" edge="1">
