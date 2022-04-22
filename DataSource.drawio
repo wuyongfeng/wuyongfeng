@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T05:20:30.762Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="-6u0no0gKXDgHNsoa_X3" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-22T05:50:37.451Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="EYGYCsxgrlSqzHIy5qq6" version="17.4.6" type="github" pages="2">
   <diagram id="78BLoj6I48kYaRuqE5UL" name="数据独立存储方案1-传统多数据源模式">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -78,7 +78,7 @@
             <mxPoint x="916" y="266.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZK2Sy7To2DuazH64TaJp-26" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#000000;strokeColor=#457B9D;fillColor=#A8DADC;" parent="ZK2Sy7To2DuazH64TaJp-1" edge="1">
+        <mxCell id="ZK2Sy7To2DuazH64TaJp-26" value="" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;fontColor=#000000;strokeColor=#FF3333;fillColor=#A8DADC;" parent="ZK2Sy7To2DuazH64TaJp-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="778" y="375" as="sourcePoint" />
             <mxPoint x="924" y="375" as="targetPoint" />
