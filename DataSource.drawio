@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T01:54:14.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="QNjIZz9Fcr0SsFYyWm9b" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-22T02:41:22.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="l2RTLwlCJ4C__dbETZKO" version="17.4.6" type="github" pages="2">
   <diagram id="78BLoj6I48kYaRuqE5UL" name="数据独立存储方案1-传统多数据源模式">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="1394" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,7 +145,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1GsaGOhPuQo9N7ZaYMCB" name="数据独立存储方案2-基于服务多数据源模式技术方案">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="1394" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -153,6 +153,9 @@
           <mxGeometry x="30" y="150" width="1280" height="500" as="geometry">
             <mxRectangle x="30" y="150" width="160" height="23" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="knl8iM3lEiRTkJogPcER-1" value="&lt;span style=&quot;font-size: 9px ; font-weight: 700&quot;&gt;业务服务规则算法&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;strokeColor=#457B9D;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
+          <mxGeometry x="268" y="170" width="170" height="300" as="geometry" />
         </mxCell>
         <mxCell id="QnGywbHcmohgSB-NV8yT-61" value="" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;strokeColor=#457B9D;fillColor=none;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
           <mxGeometry x="900" y="100" width="370" height="120" as="geometry" />
@@ -202,7 +205,7 @@
         <mxCell id="QnGywbHcmohgSB-NV8yT-14" value="&lt;h3 style=&quot;padding: 0px ; margin: 24px 0px 16px ; box-sizing: border-box ; font-size: 1.25em ; line-height: 1.25 ; color: rgb(36 , 41 , 46) ; font-family: , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34;&quot;&gt;服务提供&lt;/h3&gt;" style="whiteSpace=wrap;html=1;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#FFFFFF;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
           <mxGeometry x="984" y="30" width="140" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="QnGywbHcmohgSB-NV8yT-15" value="平台业务服务" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=none;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
+        <mxCell id="QnGywbHcmohgSB-NV8yT-15" value="平台system服务" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=none;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
           <mxGeometry x="328" y="210" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="QnGywbHcmohgSB-NV8yT-16" value="平台服务" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontStyle=1;fontSize=9;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
@@ -211,10 +214,10 @@
         <mxCell id="QnGywbHcmohgSB-NV8yT-17" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;业务服务&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;fontStyle=1;fontSize=9;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
           <mxGeometry x="845" y="65" width="60" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="QnGywbHcmohgSB-NV8yT-18" value="公证处A服务" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=none;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
-          <mxGeometry x="920" y="120" width="64" height="64" as="geometry" />
+        <mxCell id="QnGywbHcmohgSB-NV8yT-18" value="业务A服务" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=none;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
+          <mxGeometry x="920" y="120" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="QnGywbHcmohgSB-NV8yT-19" value="公证处B服务" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=none;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
+        <mxCell id="QnGywbHcmohgSB-NV8yT-19" value="业务B服务" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=none;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
           <mxGeometry x="920" y="238" width="64" height="64" as="geometry" />
         </mxCell>
         <mxCell id="QnGywbHcmohgSB-NV8yT-20" value="。。。" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/app_services/App_Service_Plans.svg;rounded=0;sketch=0;fontColor=#1D3557;strokeColor=#457B9D;fillColor=#A8DADC;labelBackgroundColor=none;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
@@ -296,9 +299,6 @@
             <mxPoint x="355" y="305" as="sourcePoint" />
             <mxPoint x="355" y="335" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="knl8iM3lEiRTkJogPcER-1" value="&lt;span style=&quot;font-size: 9px ; font-weight: 700&quot;&gt;业务服务规则算法&lt;/span&gt;" style="shape=ext;double=1;rounded=1;whiteSpace=wrap;html=1;dashed=1;labelBackgroundColor=none;sketch=0;fontSize=14;fontColor=#000000;strokeColor=#457B9D;fillColor=none;labelPosition=center;verticalLabelPosition=top;align=center;verticalAlign=bottom;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
-          <mxGeometry x="268" y="170" width="170" height="300" as="geometry" />
         </mxCell>
         <mxCell id="kBCrA3iXp3kFZONxHDxh-1" value="&lt;span style=&quot;color: rgb(29 , 53 , 87) ; background-color: rgb(248 , 249 , 250)&quot;&gt;银行&lt;/span&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/networking/IP_Groups.svg;rounded=0;sketch=0;fontColor=#000000;strokeColor=#457B9D;fillColor=none;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
           <mxGeometry x="30" y="210" width="96.64" height="75" as="geometry" />
