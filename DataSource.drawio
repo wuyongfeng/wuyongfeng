@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-22T03:01:55.713Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="rI5kzVw2xtDrD7bHsYHn" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-22T03:03:59.195Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="HX0uK2GavGpsAnncHtq8" version="17.4.6" type="github" pages="2">
   <diagram id="78BLoj6I48kYaRuqE5UL" name="数据独立存储方案1-传统多数据源模式">
-    <mxGraphModel dx="1394" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,7 +172,7 @@
         <mxCell id="5C9GGsjlYOhXfarIp8Tb-4" value="公证处A数据库" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
           <mxGeometry x="1170" y="110" width="55.5" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="5C9GGsjlYOhXfarIp8Tb-5" value="数据库" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
+        <mxCell id="5C9GGsjlYOhXfarIp8Tb-5" value="平台数据库" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
           <mxGeometry x="328" y="350" width="55.5" height="74" as="geometry" />
         </mxCell>
         <mxCell id="QnGywbHcmohgSB-NV8yT-7" value="公证处B数据库" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Azure_Database_MySQL_Server.svg;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" parent="5C9GGsjlYOhXfarIp8Tb-1" vertex="1">
