@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T05:23:57.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="KCFkPIq2oPtVTBfZ3qto" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-25T05:26:49.862Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="buwhF9rkaguGZiz9g0aF" version="17.4.6" type="github" pages="2">
   <diagram id="TbiD-q-UGumEZRIeGAm7" name="梳理赋强">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -184,13 +184,13 @@
             <mxRectangle width="186" height="126" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Gq2tqILsiGYKfqjiZqC-32" value="&lt;span style=&quot;font-weight: 700 ; background-color: rgb(255 , 230 , 204)&quot;&gt;视频&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="5Gq2tqILsiGYKfqjiZqC-32" value="&lt;span style=&quot;font-weight: 700; background-color: rgb(255, 230, 204); font-size: 16px;&quot;&gt;视频&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontFamily=Verdana;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="670" y="140" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5Gq2tqILsiGYKfqjiZqC-33" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-weight: 700 ; background-color: rgb(255 , 230 , 204)&quot;&gt;监控&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="5Gq2tqILsiGYKfqjiZqC-33" value="&lt;span style=&quot;font-family: helvetica; font-size: 16px; font-weight: 700; background-color: rgb(255, 230, 204);&quot;&gt;监控&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontFamily=Verdana;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="670" y="280" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="5Gq2tqILsiGYKfqjiZqC-34" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-weight: 700 ; background-color: rgb(255 , 230 , 204)&quot;&gt;CA&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontFamily=Verdana;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="5Gq2tqILsiGYKfqjiZqC-34" value="&lt;span style=&quot;font-family: helvetica; font-size: 16px; font-weight: 700; background-color: rgb(255, 230, 204);&quot;&gt;CA&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontFamily=Verdana;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="670" y="407.40999999999997" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
