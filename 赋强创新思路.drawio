@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T05:42:13.760Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="cKlHvS3-ysA-gT0RgPV2" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-25T05:42:44.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="Fr6CRYwTwgMkpGEcF6fP" version="17.4.6" type="github" pages="2">
   <diagram id="TbiD-q-UGumEZRIeGAm7" name="梳理赋强">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -165,15 +165,15 @@
             <mxRectangle width="186" height="126" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Gq2tqILsiGYKfqjiZqC-38" value="业务系统中报错的日志没有进行捕获和监控，通知" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-16">
-          <mxGeometry x="10" y="20" width="160" height="90" as="geometry" />
+        <mxCell id="5Gq2tqILsiGYKfqjiZqC-47" value="业务系统中报错的日志没有进行捕获和监控，通知" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-16">
+          <mxGeometry x="10" y="8" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5Gq2tqILsiGYKfqjiZqC-17" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=#dae8fc;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-15">
           <mxGeometry x="246" width="188" height="126" as="geometry">
             <mxRectangle width="188" height="126" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Gq2tqILsiGYKfqjiZqC-41" value="视频卡死，录制视频小程序闪退，视频上传失败等问题" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-17">
+        <mxCell id="5Gq2tqILsiGYKfqjiZqC-41" value="业务系统中报错的日志没有进行捕获和监控，通知" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-17">
           <mxGeometry x="14" y="12" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5Gq2tqILsiGYKfqjiZqC-18" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=#dae8fc;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-15">
@@ -192,15 +192,15 @@
             <mxRectangle width="186" height="126" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Gq2tqILsiGYKfqjiZqC-39" value="深圳CA频繁问题，导致业务链路异常" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-20">
-          <mxGeometry x="10" y="16" width="160" height="74" as="geometry" />
+        <mxCell id="5Gq2tqILsiGYKfqjiZqC-46" value="深圳CA频繁问题，导致业务链路异常" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-20">
+          <mxGeometry x="13" y="8" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5Gq2tqILsiGYKfqjiZqC-21" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=#dae8fc;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-19">
           <mxGeometry x="246" width="188" height="126" as="geometry">
             <mxRectangle width="188" height="126" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Gq2tqILsiGYKfqjiZqC-42" value="视频卡死，录制视频小程序闪退，视频上传失败等问题" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-21">
+        <mxCell id="5Gq2tqILsiGYKfqjiZqC-42" value="深圳CA频繁问题，导致业务链路异常" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-21">
           <mxGeometry x="14" y="8" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5Gq2tqILsiGYKfqjiZqC-22" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=#dae8fc;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-19">
