@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T09:49:24.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="nEAzEJAggvplfFmlaRcR" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-25T09:52:48.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="G6KdKU6rLX5jdQl40HYo" version="17.4.6" type="github" pages="2">
   <diagram id="TbiD-q-UGumEZRIeGAm7" name="梳理赋强">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -122,7 +122,7 @@
           <mxGeometry x="300" y="600" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="NVHMBf0Pm29na-19WKgt-1" value="视频" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=18;fontColor=#FFFFFF;strokeColor=default;strokeWidth=0;fillColor=#007FFF;gradientColor=none;" parent="1" vertex="1">
-          <mxGeometry x="350.34000000000003" y="230" width="60" height="60" as="geometry" />
+          <mxGeometry x="350.34000000000003" y="220" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Mb-JLxG81UEq2aO8pVqn-1" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;larkhacksafarifont&amp;#34; , &amp;#34;larkemojifont&amp;#34; , &amp;#34;larkchinesequote&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;noto color emoji&amp;#34;&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;功能服务解耦，有利于实现业务中台。服务于本身之外，可以服务于其他业务线。同时可以快速实现产品构建。&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontStyle=1;align=left;position2=0.59;" parent="1" vertex="1">
           <mxGeometry x="19.999999999999996" y="140" width="250.34" height="140" as="geometry" />
@@ -221,7 +221,7 @@
           <mxGeometry x="670" y="440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KH5OwyHlxRdk-e3a6LJU-1" value="小程序" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=18;strokeColor=#9673a6;strokeWidth=0;fillColor=#007FFF;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="180.34000000000003" y="330" width="60" height="60" as="geometry" />
+          <mxGeometry x="200.00000000000003" y="340" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
