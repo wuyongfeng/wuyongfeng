@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T06:03:04.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="mjBeKqZheojyhNtrH_k1" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-25T06:22:11.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="a-JCxEoXGXT-3-Z3Zk39" version="17.4.6" type="github" pages="2">
   <diagram id="TbiD-q-UGumEZRIeGAm7" name="梳理赋强">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -181,7 +181,7 @@
             <mxRectangle width="186" height="126" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Gq2tqILsiGYKfqjiZqC-44" value="视频卡死，录制视频小程序闪退，视频上传失败等问题" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-18">
+        <mxCell id="5Gq2tqILsiGYKfqjiZqC-44" value="使用logstash的input file filter收集日志文件，并写入数据库，并进行通知" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-18">
           <mxGeometry x="13" y="12" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5Gq2tqILsiGYKfqjiZqC-19" value="" style="shape=tableRow;horizontal=0;startSize=60;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;fillColor=#dae8fc;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;strokeColor=#6c8ebf;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-10">
@@ -208,7 +208,7 @@
             <mxRectangle width="186" height="126" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Gq2tqILsiGYKfqjiZqC-43" value="视频卡死，录制视频小程序闪退，视频上传失败等问题" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-22">
+        <mxCell id="5Gq2tqILsiGYKfqjiZqC-43" value="除深圳CA之前，同时接入CFCA平台的OpenAPI进行数字化签名，加入后备方案。" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-22">
           <mxGeometry x="13" y="8" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5Gq2tqILsiGYKfqjiZqC-32" value="&lt;span style=&quot;font-weight: 700; background-color: rgb(255, 230, 204); font-size: 16px;&quot;&gt;视频&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontFamily=Verdana;fontSize=16;" vertex="1" parent="1">
