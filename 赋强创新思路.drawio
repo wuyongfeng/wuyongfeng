@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T05:31:40.141Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="1ZeHjZjuvuF13ER-RruA" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-25T05:34:49.606Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="LFDq-ZV0mzo_WHXNaUzC" version="17.4.6" type="github" pages="2">
   <diagram id="TbiD-q-UGumEZRIeGAm7" name="梳理赋强">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -127,7 +127,7 @@
         <mxCell id="Mb-JLxG81UEq2aO8pVqn-1" value="&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;larkhacksafarifont&amp;#34; , &amp;#34;larkemojifont&amp;#34; , &amp;#34;larkchinesequote&amp;#34; , , &amp;#34;blinkmacsystemfont&amp;#34; , &amp;#34;helvetica neue&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;segoe ui&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , sans-serif , &amp;#34;apple color emoji&amp;#34; , &amp;#34;segoe ui emoji&amp;#34; , &amp;#34;segoe ui symbol&amp;#34; , &amp;#34;noto color emoji&amp;#34;&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;功能服务解耦，有利于实现业务中台。服务于本身之外，可以服务于其他业务线。同时可以快速实现产品构建。&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=none;labelBorderColor=none;fontSize=14;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;fontStyle=1;align=left;position2=0.59;" parent="1" vertex="1">
           <mxGeometry x="20.340000000000003" y="130" width="390" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="5Gq2tqILsiGYKfqjiZqC-10" value="系统的优化" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="5Gq2tqILsiGYKfqjiZqC-10" value="系统性的梳理" style="shape=table;childLayout=tableLayout;startSize=40;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=16;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="670" y="30" width="620" height="460" as="geometry" />
         </mxCell>
         <mxCell id="5Gq2tqILsiGYKfqjiZqC-11" value="" style="shape=tableRow;horizontal=0;startSize=60;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;fontFamily=Verdana;textDirection=ltr;flipH=0;flipV=0;swimlaneFillColor=none;rounded=0;shadow=0;sketch=0;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-10">
@@ -138,7 +138,7 @@
             <mxRectangle width="186" height="168" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Gq2tqILsiGYKfqjiZqC-37" value="视频卡死，录制视频小程序闪退，视频上传等问题" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-12">
+        <mxCell id="5Gq2tqILsiGYKfqjiZqC-37" value="视频卡死，录制视频小程序闪退，视频上传失败等问题" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-12">
           <mxGeometry x="10" y="40" width="160" height="110" as="geometry" />
         </mxCell>
         <mxCell id="5Gq2tqILsiGYKfqjiZqC-13" value="目标" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=#fff2cc;startSize=30;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#d6b656;fontSize=15;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-11">
@@ -159,7 +159,7 @@
             <mxRectangle width="186" height="126" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="5Gq2tqILsiGYKfqjiZqC-38" value="业务链路中报错的日志没有进行捕获和监控，通知" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-16">
+        <mxCell id="5Gq2tqILsiGYKfqjiZqC-38" value="业务系统中报错的日志没有进行捕获和监控，通知" style="text;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Verdana;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-16">
           <mxGeometry x="10" y="20" width="160" height="90" as="geometry" />
         </mxCell>
         <mxCell id="5Gq2tqILsiGYKfqjiZqC-17" value="" style="swimlane;swimlaneHead=0;swimlaneBody=0;fontStyle=0;connectable=0;fillColor=#dae8fc;startSize=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=1;strokeColor=#6c8ebf;" vertex="1" parent="5Gq2tqILsiGYKfqjiZqC-15">
