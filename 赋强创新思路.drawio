@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-25T09:39:38.962Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="wgFvEyI1LY8tnqeFkFae" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-25T09:46:32.438Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="wZjaub_4IHIbrswxxVV8" version="17.4.6" type="github" pages="2">
   <diagram id="TbiD-q-UGumEZRIeGAm7" name="梳理赋强">
     <mxGraphModel dx="1874" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -220,6 +220,9 @@
         <mxCell id="5Gq2tqILsiGYKfqjiZqC-34" value="&lt;span style=&quot;font-family: helvetica; font-size: 16px; font-weight: 700; background-color: rgb(255, 230, 204);&quot;&gt;CA&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=0;fontFamily=Verdana;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="670" y="440" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KH5OwyHlxRdk-e3a6LJU-1" value="小程序" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=18;fontColor=#FFFFFF;strokeColor=default;strokeWidth=0;fillColor=#007FFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="340.34000000000003" y="470" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
@@ -402,6 +405,9 @@
         </mxCell>
         <mxCell id="fEQHph-_vEZMSqexF0Sl-8" value="客服" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=18;strokeWidth=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="905" y="341.29999999999995" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UB9or8ZkT0_HLz9yuk_g-1" value="小程序" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;shadow=0;sketch=0;fontSize=18;fontColor=#FFFFFF;strokeColor=default;strokeWidth=0;fillColor=#007FFF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="670.34" y="460" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
