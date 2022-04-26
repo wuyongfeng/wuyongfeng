@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T05:54:44.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="T6x8d2E8L65-hbVnuang" version="17.4.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-04-26T05:56:47.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="8HOkGxWa9UdtqqARVMLt" version="17.4.6" type="github" pages="2">
   <diagram id="sgnoXQL_-yyP_8MximHw" name="Page-2">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="sereGS2zt9WavTr4PRwZ-12" value="&lt;span style=&quot;font-size: 15px&quot;&gt;&lt;b&gt;&lt;font color=&quot;#3333ff&quot;&gt;数据同步：&lt;/font&gt;&lt;br&gt;&lt;br&gt;Flink CDC 同步数据到公证处数据库&lt;br&gt;&lt;/b&gt;&lt;/span&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="890" y="300" width="140" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="sereGS2zt9WavTr4PRwZ-13" value="&lt;span style=&quot;font-size: 15px ; font-weight: 700&quot;&gt;框架应用&lt;/span&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 700&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 15px ; font-weight: 700&quot;&gt;springCloud框架应用，服务发现注册、配置中心、负载均衡、断路器、数据监控&lt;/span&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;fontColor=#1D3557;" parent="1" vertex="1">
+        <mxCell id="sereGS2zt9WavTr4PRwZ-13" value="&lt;b style=&quot;font-size: 15px&quot;&gt;&lt;font color=&quot;#3333ff&quot;&gt;数据同步：&lt;/font&gt;&lt;br&gt;&lt;br&gt;Flink CDC 同步数据到公证处数据库&lt;/b&gt;" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="1045" y="300" width="140" height="220" as="geometry" />
         </mxCell>
       </root>
