@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T07:27:15.138Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="D9P6WVwMKfq_vx2CLb0C" version="17.4.6" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-04-27T07:51:47.539Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="WbbXAj-85E5D1ykUmH0n" version="17.4.6" type="github" pages="3">
   <diagram id="sgnoXQL_-yyP_8MximHw" name="赋强平台优化方向">
     <mxGraphModel dx="1874" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" background="#F1FAEE" math="0" shadow="0">
       <root>
@@ -512,7 +512,7 @@
         <mxCell id="GAaDssPovDpM9dBT24gB-56" value="&lt;h1&gt;测试&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;验证研发结果。&lt;/font&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;fontSize=13;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="1120" width="215" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="GAaDssPovDpM9dBT24gB-57" value="&lt;h1&gt;人员&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 16px ; text-align: left&quot;&gt;后端1名。&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;fontSize=13;align=center;rounded=1;" vertex="1" parent="1">
+        <mxCell id="GAaDssPovDpM9dBT24gB-57" value="&lt;h1&gt;人员&lt;/h1&gt;&lt;p&gt;&lt;span style=&quot;font-family: &amp;#34;verdana&amp;#34; ; font-size: 16px ; text-align: left&quot;&gt;测试1名。&lt;/span&gt;&lt;/p&gt;" style="text;html=1;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;strokeColor=#6c8ebf;strokeWidth=3;fillColor=#dae8fc;fontSize=13;align=center;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="299" y="940" width="215" height="120" as="geometry" />
         </mxCell>
       </root>
