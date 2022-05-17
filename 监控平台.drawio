@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T06:34:17.873Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="OhQfumexHZXymq8Ptey1" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-17T07:18:46.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="MwJDyKqmurWurkRd9qrq" version="18.0.3" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="2029" value="服务器监控" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#3399FF;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="760" y="120" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2030" value="存储" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#3399FF;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="2030" value="可视化" style="whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#3399FF;fontFamily=Helvetica;fontSize=18;fontColor=#FFFFFF;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="940" y="120" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2031" value="" style="shape=mxgraph.arrows.two_way_arrow_horizontal;html=1;verticalLabelPosition=bottom;verticalAlign=top;strokeWidth=2;strokeColor=none;dashed=1;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;fontColor=#00BEF2" parent="1" vertex="1">
@@ -142,17 +142,8 @@
         <mxCell id="2070" value="Virtual Machine" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.virtual_machine;dashed=1;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="278" y="536" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2071" value="Web Dashboards" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.laptop;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="998" y="301" width="50" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2072" value="Certificates" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.certificate;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="998" y="399" width="50" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="2073" value="Enterprise&lt;div&gt;Services&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.enterprise;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="1008" y="518" width="30" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="2074" value="Seminars" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.user;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
-          <mxGeometry x="1001" y="630" width="47.5" height="50" as="geometry" />
+        <mxCell id="2071" value="&lt;div style=&quot;&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;&lt;span style=&quot;font-family: LarkHackSafariFont, LarkEmojiFont, LarkChineseQuote, -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;;&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;Grafana&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.laptop;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
+          <mxGeometry x="980" y="410" width="80" height="46" as="geometry" />
         </mxCell>
         <mxCell id="2075" value="" style="arrow;html=1;endArrow=block;endFill=1;strokeColor=none;strokeWidth=4;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366;fillColor=#FFB366;" parent="1" edge="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
@@ -188,12 +179,6 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="887" y="438" as="sourcePoint" />
             <mxPoint x="967" y="438" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2081" value="" style="arrow;html=1;endArrow=block;endFill=1;strokeColor=none;strokeWidth=4;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366;fillColor=#FFB366;" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="894" y="664" as="sourcePoint" />
-            <mxPoint x="974" y="664" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2082" value="" style="arrow;html=1;endArrow=block;endFill=1;strokeColor=none;strokeWidth=4;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366;fillColor=#FFB366;" parent="1" edge="1">
