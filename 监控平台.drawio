@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-18T08:49:43.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="izcHSLZwjXRF9RcwZRnf" version="18.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-18T08:52:37.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="Eq36MfDwz8avCXfZtrn_" version="18.0.6" type="github">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -82,10 +82,10 @@
         <mxCell id="2057" value="Prometheu&lt;br&gt;监控、报警和时间序列&lt;br&gt;数据库组合系统" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.database;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="645.25" y="496.25" width="37.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2059" value="机器系统数据收集" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="2059" value="服务器系统数据收集" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="773" y="196" width="140" height="574" as="geometry" />
         </mxCell>
-        <mxCell id="2060" value="node_exporter" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.azure_active_directory;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
+        <mxCell id="2060" value="node_exporter&lt;br&gt;监控服务器CPU、&lt;br&gt;内存、磁盘、I/O等信息" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.azure_active_directory;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" parent="1" vertex="1">
           <mxGeometry x="819.25" y="316" width="47.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2068" value="Cloud&lt;div&gt;Services&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;strokeColor=none;strokeWidth=2;fillColor=#FFFFFF;fontFamily=Helvetica;fontSize=14;fontColor=#FFB366;opacity=75;verticalAlign=top;fontStyle=1" parent="1" vertex="1">
@@ -113,12 +113,6 @@
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="527" y="360" as="sourcePoint" />
             <mxPoint x="607" y="360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="2078" value="" style="arrow;html=1;endArrow=block;endFill=1;strokeColor=none;strokeWidth=4;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366;fillColor=#FFB366;" parent="1" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="714" y="426" as="sourcePoint" />
-            <mxPoint x="794" y="426" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2079" value="" style="arrow;html=1;endArrow=block;endFill=1;strokeColor=none;strokeWidth=4;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366;fillColor=#FFB366;" parent="1" edge="1">
@@ -189,8 +183,8 @@
         </mxCell>
         <mxCell id="bJE3q9P6C4oksHmxXQ_U-2091" value="" style="arrow;html=1;endArrow=block;endFill=1;strokeColor=none;strokeWidth=4;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366;fillColor=#FFB366;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="663.5" y="414" as="sourcePoint" />
-            <mxPoint x="663.5" y="470.25" as="targetPoint" />
+            <mxPoint x="662" y="426.88" as="sourcePoint" />
+            <mxPoint x="662" y="483.13" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bJE3q9P6C4oksHmxXQ_U-2093" value="Prometheu&lt;br&gt;监控、报警和时间序列&lt;br&gt;数据库组合系统" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeColor=none;fillColor=#3399FF;shape=mxgraph.azure.database;dashed=1;fontFamily=Helvetica;fontSize=14;fontColor=#004C99" vertex="1" parent="1">
@@ -198,8 +192,8 @@
         </mxCell>
         <mxCell id="bJE3q9P6C4oksHmxXQ_U-2094" value="" style="arrow;html=1;endArrow=block;endFill=1;strokeColor=none;strokeWidth=4;fontFamily=Helvetica;fontSize=36;fontColor=#FFB366;fillColor=#FFB366;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="842" y="410" as="sourcePoint" />
-            <mxPoint x="842" y="466.25" as="targetPoint" />
+            <mxPoint x="842.5" y="430" as="sourcePoint" />
+            <mxPoint x="842.5" y="486.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
