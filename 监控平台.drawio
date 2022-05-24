@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T02:21:27.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="CBDTgG6EUB-6GtEpDUqL" version="18.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-24T02:22:11.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="SEAM908EuD3uqO4XC3Wv" version="18.0.8" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="赋强监控平台">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
@@ -374,7 +374,7 @@
         <mxCell id="Bcsxe9tjDg_JVPMXpMBo-23" value="Prometheus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="907" y="220" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bcsxe9tjDg_JVPMXpMBo-24" value="监控&amp;nbsp;+&amp;nbsp;时序数据库&amp;nbsp;+&amp;nbsp;报警软件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Bcsxe9tjDg_JVPMXpMBo-24" value="监控&amp;nbsp;+&amp;nbsp;时序数据库&amp;nbsp;+&amp;nbsp;报警" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="907" y="520" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Bcsxe9tjDg_JVPMXpMBo-25" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
@@ -469,7 +469,7 @@
         <mxCell id="CDgtETqaZ9fxoTZOQx3E-23" value="Prometheus" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="907" y="220" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CDgtETqaZ9fxoTZOQx3E-24" value="监控&amp;nbsp;+&amp;nbsp;时序数据库&amp;nbsp;+&amp;nbsp;报警软件" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="CDgtETqaZ9fxoTZOQx3E-24" value="监控&amp;nbsp;+&amp;nbsp;时序数据库&amp;nbsp;+&amp;nbsp;报警" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="907" y="520" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CDgtETqaZ9fxoTZOQx3E-25" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
