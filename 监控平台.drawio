@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T02:16:49.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="dHcCkQeVurd1ZBTSLG60" version="18.0.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-05-24T02:21:27.645Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="CBDTgG6EUB-6GtEpDUqL" version="18.0.8" type="github" pages="4">
   <diagram id="6a731a19-8d31-9384-78a2-239565b7b9f0" name="赋强监控平台">
-    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#003469" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -206,7 +206,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="jDmlcD6-M89CRghrTnzR" name="业务监控">
-    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -216,7 +216,7 @@
         <mxCell id="ebWnqupp-HKXHlSW3Fpd-2" value="赋强银行API" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="67" y="220" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ebWnqupp-HKXHlSW3Fpd-3" value="&lt;div&gt;关键日志收集和存储&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ebWnqupp-HKXHlSW3Fpd-3" value="&lt;div&gt;代码添加关键日志收集和存储&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="67" y="520" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ebWnqupp-HKXHlSW3Fpd-4" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
@@ -237,7 +237,7 @@
         <mxCell id="ebWnqupp-HKXHlSW3Fpd-9" value="小程序接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="347" y="220" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ebWnqupp-HKXHlSW3Fpd-10" value="关键日志收集和存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ebWnqupp-HKXHlSW3Fpd-10" value="代码添加关键日志收集和存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="347" y="520" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ebWnqupp-HKXHlSW3Fpd-11" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
@@ -258,7 +258,7 @@
         <mxCell id="ebWnqupp-HKXHlSW3Fpd-16" value="CA接口" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="627" y="220" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ebWnqupp-HKXHlSW3Fpd-17" value="关键日志收集和存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ebWnqupp-HKXHlSW3Fpd-17" value="代码添加关键日志收集和存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="627" y="520" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ebWnqupp-HKXHlSW3Fpd-18" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
@@ -301,7 +301,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="6tsk-BYN300yFd3gGJfL" name="服务监控">
-    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -311,7 +311,7 @@
         <mxCell id="Bcsxe9tjDg_JVPMXpMBo-2" value="赋强银行API服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="67" y="220" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bcsxe9tjDg_JVPMXpMBo-3" value="Springboot&amp;nbsp;服务运行指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Bcsxe9tjDg_JVPMXpMBo-3" value="Springboot集成Micrometer&lt;br&gt;监控服务运行指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="67" y="520" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Bcsxe9tjDg_JVPMXpMBo-4" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
@@ -332,7 +332,7 @@
         <mxCell id="Bcsxe9tjDg_JVPMXpMBo-9" value="小程序接口服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="347" y="220" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bcsxe9tjDg_JVPMXpMBo-10" value="Springboot&amp;nbsp;服务运行指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Bcsxe9tjDg_JVPMXpMBo-10" value="Springboot集成Micrometer&lt;br&gt;监控服务运行指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="347" y="520" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Bcsxe9tjDg_JVPMXpMBo-11" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
@@ -353,7 +353,7 @@
         <mxCell id="Bcsxe9tjDg_JVPMXpMBo-16" value="调用CA接口的服务" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="627" y="220" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Bcsxe9tjDg_JVPMXpMBo-17" value="Springboot&amp;nbsp;服务运行指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="Bcsxe9tjDg_JVPMXpMBo-17" value="Springboot集成Micrometer&lt;br&gt;监控服务运行指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="627" y="520" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Bcsxe9tjDg_JVPMXpMBo-18" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
@@ -396,7 +396,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="o-J4zLeEK6s1DQUdlScc" name="服务器监控">
-    <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -406,7 +406,7 @@
         <mxCell id="CDgtETqaZ9fxoTZOQx3E-2" value="赋强银行API服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="67" y="220" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CDgtETqaZ9fxoTZOQx3E-3" value="服务器运行指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="CDgtETqaZ9fxoTZOQx3E-3" value="安装node_exporter&lt;br&gt;监控服务器运行指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="67" y="520" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CDgtETqaZ9fxoTZOQx3E-4" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
@@ -427,7 +427,7 @@
         <mxCell id="CDgtETqaZ9fxoTZOQx3E-9" value="小程序接口服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="347" y="220" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CDgtETqaZ9fxoTZOQx3E-10" value="服务器运行指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="CDgtETqaZ9fxoTZOQx3E-10" value="安装node_exporter&lt;br&gt;监控服务器运行指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="347" y="520" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CDgtETqaZ9fxoTZOQx3E-11" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
@@ -448,7 +448,7 @@
         <mxCell id="CDgtETqaZ9fxoTZOQx3E-16" value="调用CA接口的服务器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=27;fontColor=#FFFFFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="627" y="220" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CDgtETqaZ9fxoTZOQx3E-17" value="服务器运行指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="CDgtETqaZ9fxoTZOQx3E-17" value="安装node_exporter&lt;br&gt;监控服务器运行指标" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="627" y="520" width="280" height="90" as="geometry" />
         </mxCell>
         <mxCell id="CDgtETqaZ9fxoTZOQx3E-18" value="" style="line;strokeWidth=2;html=1;rounded=0;shadow=0;fontSize=27;align=center;fillColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
