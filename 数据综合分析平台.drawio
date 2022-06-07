@@ -1,44 +1,44 @@
-<mxfile host="app.diagrams.net" modified="2022-06-07T03:17:34.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="_lrYDgHVZtpY1tmDdTO9" version="18.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-07T03:18:29.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="Id9kC41nhdMFjLpTUzaF" version="18.2.0" type="github">
   <diagram id="8YnZeBC7hz3DKTZKV3SI" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="0U3BDuoGzoeypf5nkwV5-1" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=14;strokeColor=none;fillColor=#0069D1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="70" width="500" height="500" as="geometry" />
+          <mxGeometry x="480" y="80" width="500" height="500" as="geometry" />
         </mxCell>
         <mxCell id="0U3BDuoGzoeypf5nkwV5-2" value="Enterprise&lt;div&gt;Business&lt;/div&gt;&lt;div&gt;Model&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=22;strokeColor=none;fillColor=#ffffff;fontColor=#0069D1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="720" y="190" width="260" height="260" as="geometry" />
+          <mxGeometry x="600" y="200" width="260" height="260" as="geometry" />
         </mxCell>
         <mxCell id="0U3BDuoGzoeypf5nkwV5-3" value="Community" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.users;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="670" y="400" width="46" height="50" as="geometry" />
+          <mxGeometry x="550" y="410" width="46" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0U3BDuoGzoeypf5nkwV5-4" value="Customer&lt;div&gt;Service&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.call_center_agent;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="996" y="373" width="46" height="55" as="geometry" />
+          <mxGeometry x="876" y="383" width="46" height="55" as="geometry" />
         </mxCell>
         <mxCell id="0U3BDuoGzoeypf5nkwV5-5" value="Response&lt;div&gt;Group&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.users.response_group;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="670" y="163" width="58" height="54" as="geometry" />
+          <mxGeometry x="550" y="173" width="58" height="54" as="geometry" />
         </mxCell>
         <mxCell id="0U3BDuoGzoeypf5nkwV5-6" value="Central&lt;div&gt;Management&lt;/div&gt;&lt;div&gt;Service&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.services.central_management_service;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="637" y="273" width="51" height="54" as="geometry" />
+          <mxGeometry x="517" y="283" width="51" height="54" as="geometry" />
         </mxCell>
         <mxCell id="0U3BDuoGzoeypf5nkwV5-7" value="Digital&lt;div&gt;Development&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.servers.on_premises_server;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1020" y="242" width="44" height="58" as="geometry" />
+          <mxGeometry x="900" y="252" width="44" height="58" as="geometry" />
         </mxCell>
         <mxCell id="0U3BDuoGzoeypf5nkwV5-8" value="Technology&lt;div&gt;Certificates&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.security.token_service;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="770" y="452" width="60" height="56" as="geometry" />
+          <mxGeometry x="650" y="462" width="60" height="56" as="geometry" />
         </mxCell>
         <mxCell id="0U3BDuoGzoeypf5nkwV5-9" value="Infrastructure" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.concepts.on_premises;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="913" y="450" width="34" height="55" as="geometry" />
+          <mxGeometry x="793" y="460" width="34" height="55" as="geometry" />
         </mxCell>
         <mxCell id="0U3BDuoGzoeypf5nkwV5-10" value="Global&lt;div&gt;Partnerships&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#ffffff;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.office.concepts.globe_internet;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="761" y="100" width="49" height="49" as="geometry" />
+          <mxGeometry x="641" y="110" width="49" height="49" as="geometry" />
         </mxCell>
         <mxCell id="0U3BDuoGzoeypf5nkwV5-11" value="Environmental&lt;div&gt;Awareness&lt;/div&gt;" style="shadow=0;dashed=0;html=1;strokeColor=none;shape=mxgraph.mscae.general.continuous_cycle;fillColor=#ffffff;rounded=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;verticalAlign=top;labelPosition=center;verticalLabelPosition=bottom;align=center;" vertex="1" parent="1">
-          <mxGeometry x="870" y="95" width="48" height="50" as="geometry" />
+          <mxGeometry x="750" y="105" width="48" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0U3BDuoGzoeypf5nkwV5-12" value="Finance" style="shape=mxgraph.signs.travel.euro;html=1;fillColor=#ffffff;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;rounded=0;shadow=0;dashed=0;comic=0;fontFamily=Verdana;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="957" y="149" width="45" height="51" as="geometry" />
+          <mxGeometry x="837" y="159" width="45" height="51" as="geometry" />
         </mxCell>
         <mxCell id="0U3BDuoGzoeypf5nkwV5-13" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;dashed=0;strokeWidth=1;fontFamily=Tahoma;fontSize=10;fontColor=#FFFFFF;strokeColor=none;fillColor=#7FB61A;gradientColor=#1B622A;gradientDirection=west;" vertex="1" parent="1">
           <mxGeometry x="1300" y="880" width="240" height="180" as="geometry" />
